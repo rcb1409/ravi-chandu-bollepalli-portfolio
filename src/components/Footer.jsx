@@ -62,7 +62,7 @@ export const Footer = () => {
             <ul className="space-y-3">
             <li>
                 <a
-                  href="https://linkedin.com/in/yourhandle"
+                  href="https://www.linkedin.com/in/ravi-chandu-bollepalli/"
                   target="_blank"
                   rel="noreferrer"
                   className="flex items-center gap-2 hover:text-white transition-colors"
@@ -72,7 +72,7 @@ export const Footer = () => {
               </li>
               <li>
                 <a
-                  href="https://github.com/yourhandle"
+                  href="https://github.com/rcb1409"
                   target="_blank"
                   rel="noreferrer"
                   className="flex items-center gap-2 hover:text-white transition-colors"
