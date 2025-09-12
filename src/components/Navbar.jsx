@@ -21,6 +21,9 @@ export const Navbar = ({menuOpen, setMenuOpen}) => {
                                                 <a href="#about" className="text-gray-300 hover:text-white transtion-white">
                           About
                         </a>
+                                                                        <a href="#experience" className="text-gray-300 hover:text-white transtion-white">
+                            Experience
+                        </a>
                                                 <a href="#projects" className="text-gray-300 hover:text-white transtion-white">
                             Projects
                         </a>
