@@ -61,12 +61,12 @@ export const About = () => {
                 >
                   LinkedIn
                 </a>
-                <a
-                  href="#projects"
-                  className="px-4 py-2 rounded-full bg-blue-500/20 hover:bg-blue-500/30 border border-blue-500/30 transition text-sm"
+                <button
+                  onClick={() => document.getElementById('projects')?.scrollIntoView({ behavior: 'smooth' })}
+                  className="px-4 py-2 rounded-full bg-blue-500/20 hover:bg-blue-500/30 border border-blue-500/30 transition text-sm cursor-pointer"
                 >
                   View Projects
-                </a>
+                </button>
               </div>
             </div>
           </div>
